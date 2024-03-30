@@ -1,5 +1,5 @@
-# README
-3rd Year Econ Ph.D student @ PKU;
-Research interest is about economic growth and industrial development, economics of innovation;
-Mainly use MATLAB, Stata, R and sometimes Python;
-Love travelling and great desserts;
+- 👋 Hi, I’m @VanessaXW
+- 🧁 I’m interested in travelling and all kinds of dessert
+- 🌱 I’m currently a Ph.D candidate in Economics @PKU
+- 📑 My research interests include: economic growth, industrial development and technology innovations.
+- 💞️ I’m looking to collaborate on economic papers
